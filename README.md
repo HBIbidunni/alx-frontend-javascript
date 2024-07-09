@@ -9,7 +9,7 @@ Projects like  `ES6 Basics`, `ES6 Promises`, `ES6 classes`,
 __Prerequisites__
 In this repository, the following prerequisites must be installed:
 
-- Node.js: JavaScript runtime environment.
+- Node.js: __JavaScript__ runtime environment.
 - npm: Node package manager.
 - babel.config.js
 
