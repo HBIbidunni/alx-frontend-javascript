@@ -1,4 +1,4 @@
-Iii# The ALX Project: ES6 Promise
+# The ALX Project: ES6 Promise
 -----------
 This project focuses on __ES6 Promises__, a significant addition to __JavaScript__ in __ECMAScript 2015 (ES6)__. 
 
