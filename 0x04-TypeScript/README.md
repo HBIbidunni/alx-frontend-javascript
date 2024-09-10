@@ -1,2 +1,0 @@
-# Typescript; The ALX Project
--------------------
